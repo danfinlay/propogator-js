@@ -1185,15 +1185,15 @@ __metadata:
   linkType: hard
 
 "@metamask/eslint-config-typescript@npm:^11.0.0":
-  version: 11.0.0
-  resolution: "@metamask/eslint-config-typescript@npm:11.0.0"
+  version: 11.1.0
+  resolution: "@metamask/eslint-config-typescript@npm:11.1.0"
   peerDependencies:
     "@metamask/eslint-config": ^11.0.0
     "@typescript-eslint/eslint-plugin": ^5.42.1
     "@typescript-eslint/parser": ^5.42.1
     eslint: ^8.27.0
     typescript: ~4.8.4
-  checksum: 545fa1338b2f46b4e6218de564189f5376d113f94912e123ecd75e6ed38fa2b2e48777a3109bdc1738b3cc23cd9eb1efa37ba3b9cf601746782f1c7ddd9180cc
+  checksum: 86f20303730fce7a2d6944d133e3d4cf745816bdc202fd17ebd341e4937777c662e80b3c1496a8da7d5e06e39518dec3206c4a4e872d9491f423e792bcdf56db
   languageName: node
   linkType: hard
 
